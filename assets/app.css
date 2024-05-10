@@ -25,3 +25,8 @@
 .winner {
   background-color: green;
 }
+
+.game {
+  display: flex;
+  gap: 20px;
+}
